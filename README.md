@@ -1,0 +1,2 @@
+# Exercicios
+exercícios trybe
